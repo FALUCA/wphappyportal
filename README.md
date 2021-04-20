@@ -1,4 +1,4 @@
-# Sample Claim Portal for Workplace
+# Sample Happy Portal for Workplace
 
 A Claim Portal is a simple web page that e-mailless users can access to confirm their data and receive a Workplace access code.
 
